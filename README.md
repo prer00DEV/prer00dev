@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/prer00DEV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prer00DEV&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prer00DEV&count_private=true&show_icons=true&theme=gruvbox"/>
   </a>
 </p>
 <!--
