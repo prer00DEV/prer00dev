@@ -1,6 +1,6 @@
 ### Hi there 👋
  My name is `Robert`, and I am an university student based in the Czech Republic, where I am pursuing a master's degree in computer science. My academic and personal interests span across several key areas of technology, including `cybersecurity`, `software engineering`, `computer networks`, `internet of thing`s, `data science`, and `artificial intelligence`. These subjects fascinate me not just for their technical depth but also for their impact on the world. I enjoy coding in `Python`, `Java` and `C`. Sometimes, I also code websites in `HTML&CSS` or `PHP` and maintain them.
-
+ 
 One thing to note about my GitHub presence is that most of my repositories are private. This is primarily because my project work often involves confidential or proprietary information that cannot be shared publicly. However, I am always open to discussing my experiences and the challenges I face in these projects, maintaining the balance between confidentiality and collaboration.
 
 🌱 I’m currently learning:
@@ -15,7 +15,10 @@ One thing to note about my GitHub presence is that most of my repositories are p
 A project focused on wireless network security, cybersecurity, utilizing Raspberry Pi, Linux, and AI. Created two units running on `RPI0W` and `RPI02W`
 - **Wazuh**:
 An on-premise SIEM/XDR running on Proxmox on my home server.
-- 
+- **Internet of Things**:
+Home automation projects using Home Assistant, ESPHome, ESP8266, ESP32, and various sensors.
+- **Deauther**:
+A WiFi penetration testing tool running on ESP8266.
 
 
 
