@@ -26,7 +26,9 @@ A WiFi penetration testing tool running on ESP8266.
 <p align="center">
   <a href="https://github.com/prer00DEV">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prer00DEV&count_private=true&show_icons=true&theme=gruvbox"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prer00DEV&layout=compact&theme=gruvbox">
+  </a>
+  <a href="https://github.com/prer00DEV">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prer00DEV&layout=compact&theme=gruvbox"/>
   </a>
 </p>
 
