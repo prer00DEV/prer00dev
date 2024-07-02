@@ -11,6 +11,8 @@ One thing to note about my GitHub presence is that most of my repositories are p
 - **Microsoft Artificial Intelligence for Beginners**: ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️ (0% Complete)
 
 🔭 I’m currently working on these projects:
+- **KYPO Cyber Range Platform**
+[KYPO Cyber Range Platform](https://crp.kypo.muni.cz/) (KYPO CRP) is developed by Masaryk University since 2013, and it represents several years of our experience with cyber ranges in education, cyber defense exercises, and trainings
 - **Pwnagotchi**:
 A project focused on wireless network security, cybersecurity, utilizing Raspberry Pi, Linux, and AI. Created two units running on `RPI0W` and `RPI02W`
 - **Wazuh**:
